@@ -1,2 +1,5 @@
 line-profiler 
 memory-profiler 
+pylint
+flake8
+mypy
