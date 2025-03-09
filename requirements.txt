@@ -3,3 +3,7 @@ memory-profiler
 pylint
 flake8
 mypy
+requests
+Jinja2
+Pygments
+sphinx
