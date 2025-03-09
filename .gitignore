@@ -1,8 +1,7 @@
 venv
 __pycache__
 *.pyc
-source
-build
-make.bat
-Makefile
+*.pyo
+*.pyd
+build/*
 *.so

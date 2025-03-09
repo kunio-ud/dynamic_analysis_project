@@ -9,4 +9,7 @@ python check_quality.py
 
 python profiler.py
 
+```cmd
 sphinx-quickstart
+make.bat html
+```
